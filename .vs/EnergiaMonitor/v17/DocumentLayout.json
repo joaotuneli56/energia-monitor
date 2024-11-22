@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor.tests\\energiamonitor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|solutionrelative:energiamonitor.tests\\energiamonitor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor.tests\\services\\cacheservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|solutionrelative:energiamonitor.tests\\services\\cacheservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor.tests\\controllers\\monitorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|solutionrelative:energiamonitor.tests\\controllers\\monitorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor.tests\\repositories\\consumorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|solutionrelative:energiamonitor.tests\\repositories\\consumorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6688772D-F2D7-4C8E-8F9D-8F624748BEF0}|EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj|solutionrelative:energiamonitor.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|solutionrelative:energiamonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|solutionrelative:energiamonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|solutionrelative:energiamonitor\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor\\service\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|solutionrelative:energiamonitor\\service\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor\\energiamonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|solutionrelative:energiamonitor\\energiamonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor\\repositories\\consumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|solutionrelative:energiamonitor\\repositories\\consumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor\\config\\mongodbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|solutionrelative:energiamonitor\\config\\mongodbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|c:\\users\\labsfiap\\source\\repos\\energiamonitor\\energiamonitor\\models\\consumoenergetico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F139F8A-AE74-4F1B-80DB-5F67134AC95B}|EnergiaMonitor\\EnergiaMonitor.csproj|solutionrelative:energiamonitor\\models\\consumoenergetico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonitorControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\Controllers\\MonitorControllerTests.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor.Tests\\Controllers\\MonitorControllerTests.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\Controllers\\MonitorControllerTests.cs",
+              "RelativeToolTip": "EnergiaMonitor.Tests\\Controllers\\MonitorControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:09:03.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\Services\\CacheServiceTests.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor.Tests\\Services\\CacheServiceTests.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\Services\\CacheServiceTests.cs",
+              "RelativeToolTip": "EnergiaMonitor.Tests\\Services\\CacheServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:08:51.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsumoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\Repositories\\ConsumoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor.Tests\\Repositories\\ConsumoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\Repositories\\ConsumoRepositoryTests.cs",
+              "RelativeToolTip": "EnergiaMonitor.Tests\\Repositories\\ConsumoRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:08:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnergiaMonitor.Tests",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj",
+              "RelativeDocumentMoniker": "EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj",
+              "RelativeToolTip": "EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T00:07:26.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "EnergiaMonitor.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:06:21.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Service\\CacheService.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor\\Service\\CacheService.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Service\\CacheService.cs",
+              "RelativeToolTip": "EnergiaMonitor\\Service\\CacheService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:04:30.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsumoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Repositories\\ConsumoRepository.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor\\Repositories\\ConsumoRepository.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Repositories\\ConsumoRepository.cs",
+              "RelativeToolTip": "EnergiaMonitor\\Repositories\\ConsumoRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:03:33.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoDbConfig.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Config\\MongoDbConfig.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor\\Config\\MongoDbConfig.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Config\\MongoDbConfig.cs",
+              "RelativeToolTip": "EnergiaMonitor\\Config\\MongoDbConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:03:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\appsettings.json",
+              "RelativeDocumentMoniker": "EnergiaMonitor\\appsettings.json",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\appsettings.json",
+              "RelativeToolTip": "EnergiaMonitor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T23:53:43.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor\\Program.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Program.cs",
+              "RelativeToolTip": "EnergiaMonitor\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:30:19.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonitorController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Controllers\\MonitorController.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor\\Controllers\\MonitorController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Controllers\\MonitorController.cs",
+              "RelativeToolTip": "EnergiaMonitor\\Controllers\\MonitorController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:30:04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnergiaMonitor",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\EnergiaMonitor.csproj",
+              "RelativeDocumentMoniker": "EnergiaMonitor\\EnergiaMonitor.csproj",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\EnergiaMonitor.csproj",
+              "RelativeToolTip": "EnergiaMonitor\\EnergiaMonitor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T23:28:11.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsumoEnergetico.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Models\\ConsumoEnergetico.cs",
+              "RelativeDocumentMoniker": "EnergiaMonitor\\Models\\ConsumoEnergetico.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\Models\\ConsumoEnergetico.cs",
+              "RelativeToolTip": "EnergiaMonitor\\Models\\ConsumoEnergetico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:29:28.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
