@@ -10,22 +10,22 @@
 
 - **GET**
 
-[text](evidencias/status404get.jpeg)
+![text](evidencias/status404get.jpeg)
 
 - **POST**
 
-[text](evidencias/status400post.jpeg)
+![text](evidencias/status400post.jpeg)
 
 ### Requisições funcionando
 
 - **GET**
 
-[text](evidencias/status200get.jpeg)
+![text](evidencias/status200get.jpeg)
 
 - **POST**
 
-[text](evidencias/status201post.jpeg)
+![text](evidencias/status201post.jpeg)
 
 - **Serviço Operacional**(Health)
 
-[text](evidencias/serviçoemfuncionamento.jpeg)
+![text](evidencias/serviçoemfuncionamento.jpeg)
