@@ -36,3 +36,47 @@ C:\Users\labsfiap\source\repos\EnergiaMonitor\EnergiaMonitor\obj\Debug\net8.0\re
 C:\Users\labsfiap\source\repos\EnergiaMonitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.pdb
 C:\Users\labsfiap\source\repos\EnergiaMonitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.genruntimeconfig.cache
 C:\Users\labsfiap\source\repos\EnergiaMonitor\EnergiaMonitor\obj\Debug\net8.0\ref\EnergiaMonitor.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\appsettings.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\EnergiaMonitor.staticwebassets.endpoints.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\EnergiaMonitor.exe
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\EnergiaMonitor.deps.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\EnergiaMonitor.runtimeconfig.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\EnergiaMonitor.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\EnergiaMonitor.pdb
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\DnsClient.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\Snappier.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.csproj.AssemblyReference.cache
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.AssemblyInfoInputs.cache
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.AssemblyInfo.cs
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.csproj.CoreCompileInputs.cache
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.sourcelink.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\scopedcss\bundle\EnergiaMonitor.styles.css
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets\msbuild.EnergiaMonitor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets\msbuild.EnergiaMonitor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets\msbuild.build.EnergiaMonitor.props
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnergiaMonitor.props
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnergiaMonitor.props
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaM.6C7813D7.Up2Date
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\refint\EnergiaMonitor.dll
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.pdb
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\EnergiaMonitor.genruntimeconfig.cache
+C:\Users\João Pedro\Projetos\energia-monitor\EnergiaMonitor\obj\Debug\net8.0\ref\EnergiaMonitor.dll

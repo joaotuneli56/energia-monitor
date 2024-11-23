@@ -24,10 +24,13 @@ namespace EnergiaMonitor.Tests.Controllers
         [Fact]
         public async Task RegistrarConsumo_DeveRetornarCreated()
         {
-            var consumo = new ConsumoEnergetico { ConsumoKwh = 100, Local = "Test" };
+            // Arrange
+            var consumo = new ConsumoEnergetico { ConsumoKwh = 50, Local = "Escritório" };
 
+            // Act
             var result = await _controller.RegistrarConsumo(consumo) as CreatedResult;
 
+            // Assert
             Assert.NotNull(result);
             Assert.Equal(201, result.StatusCode);
         }
@@ -35,16 +38,19 @@ namespace EnergiaMonitor.Tests.Controllers
         [Fact]
         public async Task ConsultarConsumos_DeveRetornarDoCache()
         {
+            // Arrange
             var cacheData = new List<ConsumoEnergetico>
             {
-                new ConsumoEnergetico { ConsumoKwh = 100, Local = "Cached" }
+                new ConsumoEnergetico { ConsumoKwh = 50, Local = "Cache" }
             };
 
             _mockCacheService.Setup(c => c.GetAsync<List<ConsumoEnergetico>>("consumos_cache"))
                              .ReturnsAsync(cacheData);
 
+            // Act
             var result = await _controller.ConsultarConsumos() as OkObjectResult;
 
+            // Assert
             Assert.NotNull(result);
             Assert.Equal(200, result.StatusCode);
 
@@ -54,26 +60,21 @@ namespace EnergiaMonitor.Tests.Controllers
         }
 
         [Fact]
-        public async Task ConsultarConsumos_DeveRetornarDoBanco()
+        public async Task ConsultarConsumos_DeveRetornarErroSeMongoFalhar()
         {
+            // Arrange
             _mockCacheService.Setup(c => c.GetAsync<List<ConsumoEnergetico>>("consumos_cache"))
                              .ReturnsAsync((List<ConsumoEnergetico>)null);
 
-            var dbData = new List<ConsumoEnergetico>
-            {
-                new ConsumoEnergetico { ConsumoKwh = 100, Local = "Database" }
-            };
+            _mockRepository.Setup(r => r.ObterConsumos()).ThrowsAsync(new Exception("Erro no banco"));
 
-            _mockRepository.Setup(r => r.ObterConsumos()).ReturnsAsync(dbData);
+            // Act
+            var result = await _controller.ConsultarConsumos() as ObjectResult;
 
-            var result = await _controller.ConsultarConsumos() as OkObjectResult;
-
+            // Assert
             Assert.NotNull(result);
-            Assert.Equal(200, result.StatusCode);
-
-            var response = result.Value as dynamic;
-            Assert.Equal("database", response.source);
-            Assert.Single(response.data);
+            Assert.Equal(500, result.StatusCode);
+            Assert.Equal("Erro no banco", result.Value.ToString());
         }
     }
 }

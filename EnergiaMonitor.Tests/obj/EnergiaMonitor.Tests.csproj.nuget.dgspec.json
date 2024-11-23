@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj": {}
+    "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj": {
+    "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj",
         "projectName": "EnergiaMonitor.Tests",
-        "projectPath": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj",
-        "packagesPath": "C:\\Softwares\\Nuget",
-        "outputPath": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor.Tests\\obj\\",
+        "projectPath": "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor.Tests\\EnergiaMonitor.Tests.csproj",
+        "packagesPath": "C:\\Users\\João Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "c:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\João Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\EnergiaMonitor.csproj": {
-                "projectPath": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\EnergiaMonitor.csproj"
+              "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor\\EnergiaMonitor.csproj": {
+                "projectPath": "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor\\EnergiaMonitor.csproj"
               }
             }
           }
@@ -47,8 +46,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -95,24 +95,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\EnergiaMonitor.csproj": {
+    "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor\\EnergiaMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\EnergiaMonitor.csproj",
+        "projectUniqueName": "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor\\EnergiaMonitor.csproj",
         "projectName": "EnergiaMonitor",
-        "projectPath": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\EnergiaMonitor.csproj",
-        "packagesPath": "C:\\Softwares\\Nuget",
-        "outputPath": "C:\\Users\\labsfiap\\source\\repos\\EnergiaMonitor\\EnergiaMonitor\\obj\\",
+        "projectPath": "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor\\EnergiaMonitor.csproj",
+        "packagesPath": "C:\\Users\\João Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\João Pedro\\Projetos\\energia-monitor\\EnergiaMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "c:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\João Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,7 +121,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -138,8 +137,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -177,7 +177,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

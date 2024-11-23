@@ -30,20 +30,34 @@ namespace EnergiaMonitor.Controllers
             if (consumo == null || consumo.ConsumoKwh <= 0)
                 return BadRequest("Dados de consumo inválidos.");
 
-            await _repository.InserirConsumo(consumo);
-            return Created("", consumo);
+            try
+            {
+                await _repository.InserirConsumo(consumo);
+                return Created("", consumo);
+            }
+            catch (Exception ex)
+            {
+                return Conflict(new { error = ex.Message });
+            }
         }
 
         [HttpGet("consumo")]
         public async Task<IActionResult> ConsultarConsumos()
         {
             const string cacheKey = "consumos_cache";
+            var stopwatch = System.Diagnostics.Stopwatch.StartNew();
 
             // Tenta obter do cache
             var consumosCache = await _cacheService.GetAsync<List<ConsumoEnergetico>>(cacheKey);
             if (consumosCache != null)
             {
-                return Ok(new { source = "cache", data = consumosCache });
+                stopwatch.Stop();
+                return Ok(new
+                {
+                    source = "cache",
+                    data = consumosCache,
+                    duration = stopwatch.ElapsedMilliseconds
+                });
             }
 
             // Consulta no banco de dados
@@ -54,7 +68,13 @@ namespace EnergiaMonitor.Controllers
             // Armazena no cache
             await _cacheService.SetAsync(cacheKey, consumos, TimeSpan.FromMinutes(5));
 
-            return Ok(new { source = "database", data = consumos });
+            stopwatch.Stop();
+            return Ok(new
+            {
+                source = "database",
+                data = consumos,
+                duration = stopwatch.ElapsedMilliseconds
+            });
         }
     }
 }

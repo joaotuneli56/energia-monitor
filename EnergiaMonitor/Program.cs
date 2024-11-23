@@ -7,7 +7,7 @@ using StackExchange.Redis;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuração do MongoDB
+// Configuração do MongoDB sem autenticação
 builder.Services.Configure<MongoDbConfig>(builder.Configuration.GetSection("MongoDbConfig"));
 builder.Services.AddSingleton<IMongoClient, MongoClient>(sp =>
 {
@@ -18,16 +18,17 @@ builder.Services.AddScoped<ConsumoRepository>();
 
 // Configuração do Redis
 builder.Services.AddSingleton<IConnectionMultiplexer>(ConnectionMultiplexer.Connect(
-    builder.Configuration.GetSection("RedisConfig:ConnectionString").Value));
+    builder.Configuration.GetSection("RedisConfig:ConnectionString").Value ?? "localhost:6379"));
 builder.Services.AddSingleton<CacheService>();
 
-// Configuração de serviços do ASP.NET
+// Configuração dos serviços do ASP.NET
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+// Configuração para ambientes de desenvolvimento
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "EnergiaMonitor.Controllers.MonitorController",
+    "Method": "RegistrarConsumo",
+    "RelativePath": "api/Monitor/consumo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consumo",
+        "Type": "EnergiaMonitor.Models.ConsumoEnergetico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnergiaMonitor.Controllers.MonitorController",
+    "Method": "ConsultarConsumos",
+    "RelativePath": "api/Monitor/consumo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnergiaMonitor.Controllers.MonitorController",
+    "Method": "Health",
+    "RelativePath": "api/Monitor/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
